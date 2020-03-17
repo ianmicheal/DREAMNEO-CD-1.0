@@ -1,21 +1,13 @@
-# DREAMNEO-CD-1.0
+######################################################################
+#                 Dream neo cd for DreamCast  V 1.0                  #
+######################################################################
 Major update
 This is neogeo cd emulator for dreamcast it can selfboot games and run real neogeo cd games on dreamcast
 It can also be used from dreamshell and a sd card with out cdda
 In 2004 I ported this to dreamcast the first working neogeo cd emulator for our beloved console
 It can play real neogeo cd games and also selfboot on the same cdi
-######################################################################
-#                 Dream neo cd for DreamCast  V 1.0                  #
-######################################################################
-# including :	Dreamneo cd v1.0 Beta                                #
-#  Ported by Ian Micheal Based on   Neogeo cd SDL by fosters         #
-#											                         #
-#			2004 team and credits									 #
-#	#code and co coders quzar black aura troy GPF blue crab		     #
-######################################################################
-#																	 #
-#								   Makefile (c)2020 from Ian Micheal #
-######################################################################
+
+
 Based on fosters neogeocd/sdl https://github.com/joolswills/neocdsdl
 Disclaimer
 ==========
