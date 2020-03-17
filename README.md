@@ -1,8 +1,8 @@
 ######################################################################
 #                 Dream neo cd for DreamCast  V 1.0                  #
 ######################################################################
-Major update
-This is neogeo cd emulator for dreamcast it can selfboot games and run real neogeo cd games on dreamcast
+
+Major update this is neogeo cd emulator for dreamcast it can selfboot games and run real neogeo cd games on dreamcast
 It can also be used from dreamshell and a sd card with out cdda
 In 2004 I ported this to dreamcast the first working neogeo cd emulator for our beloved console
 It can play real neogeo cd games and also selfboot on the same cdi
