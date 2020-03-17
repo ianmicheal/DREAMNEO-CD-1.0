@@ -27,6 +27,7 @@ COMMERCIAL PURPOSES.
 
 Acknowledgements (in no particular order)
 =================
+Beta testers   deluxux  Anthony817  Freak dave  bjankins1
 Mathieu Peponas     - The GNGEO source was really useful for information and
                       was really open about licencing files to be compatible 
                       with NeoCD/SDL.
@@ -49,6 +50,9 @@ Thanks to all at the simulant discord for there help freindship advice
 https://gitlab.com/simulant/simulant  A general purpose game engine for Linux, Android and the SEGA Dreamcast!
 https://discordapp.com/invite/TRx94EV A place for dreamcast dev's of all types and to help with the engine
 https://simulant-engine.appspot.com/
+
+Thanks to every one at dctalk forum for love and support on all my projects 
+https://www.dreamcast-talk.com/forum/index.php
 
 quzar  for being the best person to have on my team in 2004 lot's code fixes and fixed a lot of the memory functions and rendering
 It's now fully back from the dead again after you brought back from the dead dead  thank you :)
