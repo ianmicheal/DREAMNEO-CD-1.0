@@ -38,6 +38,9 @@ Acknowledgements (in no particular order)
 Mathieu Peponas     - The GNGEO source was really useful for information and
                       was really open about licencing files to be compatible 
                       with NeoCD/SDL.
+Mrneo240       Coding advice  inspiration Just a fantastic coder and freind
+https://gitlab.com/HaydenKow/nuquake
+
 troy GPF         Kos cdda sound help support  debugging SDL  
 
 Stephane Dallongeville       - C68K (68000 CPU emulator) version 0.80 
