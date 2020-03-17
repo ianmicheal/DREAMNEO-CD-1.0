@@ -45,8 +45,13 @@ Copyright 2004-2005 Stephane Dallongeville
 Moopthehedgehog     Memfunctions coding advice just a great guy know's his stuff 
 https://github.com/Moopthehedgehog
 
+Thanks to all at the simulant discord for there help freindship advice
+https://gitlab.com/simulant/simulant  A general purpose game engine for Linux, Android and the SEGA Dreamcast!
+https://discordapp.com/invite/TRx94EV A place for dreamcast dev's of all types and to help with the engine
+https://simulant-engine.appspot.com/
+
 quzar  for being the best person to have on my team in 2004 lot's code fixes and fixed a lot of the memory functions and rendering
-It's now fully back from the dead thank you :)
+It's now fully back from the dead again after you brought back from the dead dead  thank you :)
 
 The MAME team       - For an incredible emulator, a source tree full of useful
                       information, and for sucking away more of my time than any
