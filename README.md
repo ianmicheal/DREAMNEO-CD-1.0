@@ -29,7 +29,7 @@ neocd.bin and should be 512kb in size.
 A smaller version of this bios file exists on the internet, however this will no
 longer work with DREAMNEO CD(v 1.0 onwards)
 
-NEOCD IS FREE, SOURCE CODE IS FREE. SELLING IS NOT ALLOWED. 
+DREAMNEO-CD-1.0 IS FREE, SOURCE CODE IS FREE. SELLING IS NOT ALLOWED. 
 YOU CAN REUSE SOURCE CODE AND TECHNICAL KNOWLEDGE AS LONG AS IT IS NOT FOR 
 COMMERCIAL PURPOSES.
 
@@ -45,15 +45,15 @@ Copyright 2003-2004 Stephane Dallongeville
 Stephane Dallongeville         - CZ80 (Z80 CPU emulator) version 0.9  
 Copyright 2004-2005 Stephane Dallongeville 
 (http://gens.consolemul.com then go to the forum).
+Moopthehedgehog     Memfunctions coding advice just a great guy know's his stuff 
+https://github.com/Moopthehedgehog
 
 The MAME team       - For an incredible emulator, a source tree full of useful
                       information, and for sucking away more of my time than any
                       other computer program in years 8)
 
-Sam Lantinga et al. - For the amazing libSDL cross-platform C library.
+Sam Lantinga et al. - For the amazing libSDL cross-platform C library. (Only sound is used nothing else)
 
-Snes9x              - Where I found the 2xSaI code.
-
-DC Scene            - Thanks for the help translating asm to C 
+DC Scene            - Thanks for the help translating asm to C  Black aura :)
 
 Everyone Else       - Thanks for taking an interest.
